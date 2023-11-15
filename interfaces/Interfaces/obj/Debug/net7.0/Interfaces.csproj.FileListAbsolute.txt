@@ -1,0 +1,15 @@
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.csproj.AssemblyReference.cache
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.exe
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.runtimeconfig.json
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.dll
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.dll
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\prog\3\interfaces\Interfaces\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll
