@@ -1,0 +1,16 @@
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.csproj.AssemblyReference.cache
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.AssemblyInfoInputs.cache
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.AssemblyInfo.cs
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.exe
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.deps.json
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.runtimeconfig.json
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.runtimeconfig.dev.json
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.dll
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.pdb
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.dll
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.pdb
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.genruntimeconfig.cache
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\obj\Debug\net5.0\ref\PhoneBook.dll
+D:\Мои Документы\Мои документы\GitHub\prog\PhoneBook\PhoneBook\bin\Debug\net5.0\ref\PhoneBook.dll
