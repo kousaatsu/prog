@@ -7,7 +7,6 @@ namespace PhoneBook
         static void Main(string[] args)
         {
             Random rand = new Random();
-            int id = rand.Next(100, 200);
             PhoneBook phoneBook = new PhoneBook();
             int output;
             Console.WriteLine(">To add contact type 1\n>To delete contact type 2\n>To search contact type 3\n>To show all contacts type 4\n>To exit type 5");
@@ -23,6 +22,7 @@ namespace PhoneBook
                             string name = Console.ReadLine();
                             Console.WriteLine("Number:");
                             long number = Convert.ToInt64(Console.ReadLine());
+                            int id = rand.Next(100, 200);
                             Contact newContact = new Contact(name, number, id);
                             phoneBook.Add(newContact);
                         }
