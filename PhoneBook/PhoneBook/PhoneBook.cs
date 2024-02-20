@@ -43,7 +43,7 @@ namespace PhoneBook
 
 		private void ShowContact(Contact contact)
 		{
-			Console.WriteLine($"Contact: {contact.Name}, {contact.Number}");
+			Console.WriteLine($"Contact: {contact.Name}, {contact.Number}\n");
 		}
 		//добавление, удаление, поиск по имени, вывод всех контактов
 	}

@@ -48,7 +48,7 @@ namespace PhoneBook
                         Environment.Exit(0);
                         break;
                 }
-                Console.WriteLine("Select operation");
+                Console.WriteLine("Next operation?");
                 output = Convert.ToInt32(Console.ReadLine());
             }
  
